@@ -1,44 +1,14 @@
-
 FREE APP
+Created by Rabee ismaeel 
+Winbox 1.0
+WinBox 1.0 aims to bring the classic Windows interface to smartphones, allowing users to browse files, open apps, manage windows, and even run simple programs as if they were on a desktop computer
 
-Created by WebIntoApp.com on Saturday 5th of April 2025 07:22:32 AM.
+The feature:
+Multi-window Support: Open and manage multiple windows simultaneously.
 
-Release APK & App Bundle (AAB) ready to be submitted to Google Play Store 
-and to any other APK / AAB store over the internet.
+File Manager: Built-in file explorer that resembles the native Windows File Explorer.
 
--------------------------------------
-App ID:			678956
-App Key:		FcgsrmRggubjoOrHRaNcwBbasHyQlTrG
-App Name:		Winbox
-App Version:	1.0
-Package:		com.mjismaeel.winbox
-Mode:			Free App
--------------------------------------
+Lightweight Performance: Designed to be fast and resource-efficient, without draining your device.
 
-Your free app is ready, you can now publish it to the 
-google play store and to any apk app store on the internet.
-
--------------------------------------
-Please note, your app is under a FREE mode, you can always 
-convert it to your own dedicated and branded mobile app for 
-Android and iOS with all the premium features at:
-
-https://www.webintoapp.com/author/apps/678956/edit?cmd=app-switcher
-
--------------------------------------
-Here are some useful links:
--------------------------------------
-
-You can edit your app at:
-https://www.webintoapp.com/author/apps
-
-Get installs statistics at:
-https://www.webintoapp.com/author/stats?appid=678956
-
-The Author Area:
-https://www.webintoapp.com/author/dashboard
-
--------------------------------------
-WebIntoApp.com Team.
-https://www.webintoapp.com
--------------------------------------
+NOTE: if you have a mobile phone in the right corner on the top click select mode botton and choose moblie and it you have tablet choose tablet
+I hope you like the application  :)
